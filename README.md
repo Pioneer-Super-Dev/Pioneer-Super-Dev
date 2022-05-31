@@ -19,7 +19,7 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
 
 📫 How to reach me **pioneer0221@outlook.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pioneer-Super-Dev&margin-w=15)](https://github.com/Pioneer-Super-Dev/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pioneer-Super-Dev&margin-w=15&margin-h=15)](https://github.com/Pioneer-Super-Dev/github-profile-trophy)
 
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
