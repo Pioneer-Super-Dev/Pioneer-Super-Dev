@@ -21,9 +21,90 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pioneer-Super-Dev&margin-w=15&margin-h=15)](https://github.com/Pioneer-Super-Dev/github-profile-trophy)
 
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow-github-profile-awesome-beautiful" width="40" height="40" />
+ <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="tomcat-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" alt="atom-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="bitcoin-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/blueprintjs/blueprintjs-icon.svg" alt="blueprint-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/clockifyme/clockifyme-icon.svg" alt="clockify-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://vecta.io/app/link?src=https://www.vectorlogo.zone/logos/clipboardjs/clipboardjs-icon.svg" alt="clipboard-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="codepen-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/crateio/crateio-icon.svg" alt="crate.io-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/drupal/drupal-icon.svg" alt="drupal-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="electron-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" alt="fedora-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-icon.svg" alt="flux-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/font-awesome/font-awesome-icon.svg" alt="fontawesome-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ehtereum-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="googleanalytics-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/gatsbyjs/index.html" alt="gatsby-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/gnome/gnome-icon.svg" alt="gnome-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/godaddy/godaddy-icon.svg" alt="godaddy-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/litecoin/litecoin-icon.svg" alt="litecoin-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/memcached/memcached-icon.svg" alt="memcached-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/monday/monday-icon.svg" alt="monday-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/mlab/mlab-icon.svg" alt="mlab-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/nano/nano-icon.svg" alt="nano-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg alt="netlify-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" alt="nodemon-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/openssl/openssl-icon.svg" alt="openssl-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/papertrailapp/papertrailapp-icon.svg" alt="papertrail-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" alt="perl-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="phpmyadmin-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="qt-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/google_recaptcha/google_recaptcha-icon.svg" alt="recaptcha-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/reducer/reducer-icon.svg" alt="reducer-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socket.io-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/w3c/w3c-icon.svg" alt="w3c-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" alt="wix-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="xml-github-profile-awesome-beautiful" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="javascript-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs-github-profile-awesome-beautiful" width="40" height="40"/> 
