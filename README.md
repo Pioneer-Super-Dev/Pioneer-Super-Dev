@@ -132,7 +132,7 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
  <span>...</span>
 </p>
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trusteddev1409&layout=compact&card_width=495px&border_radius=20px&show_icons=true&theme=" alt="beautiful-github-profile-hi-with-handshake"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pioneer-Super-Dev&layout=compact&card_width=495px&border_radius=20px&show_icons=true&theme=" alt="beautiful-github-profile-hi-with-handshake"/>
 
 ## 👨🏻‍💻 Check out my GitHub stats
 
@@ -194,5 +194,6 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
 
 ---
 
-If you've reached this point, you deserve to meet <span style="color: purple">Qwerty</span>, my contribution snake. Fed daily (almost):
+<p>&nbsp;<img align="center" width="50%" height:"200px" src="https://github-readme-stats.vercel.app/api?username=Pioneer-Super-Dev&show_icons=true&locale=en" alt="Pioneer-Super-Dev" /></p>
+
 ![GitHub Contribution Snake Grid Animation](https://raw.githubusercontent.com/fbuireu/fbuireu/snake-grid-animation/github-contribution-snake-grid-animation.svg)
