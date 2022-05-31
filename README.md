@@ -36,7 +36,6 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
  <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket-github-profile-awesome-beautiful" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/blueprintjs/blueprintjs-icon.svg" alt="blueprint-github-profile-awesome-beautiful" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/clockifyme/clockifyme-icon.svg" alt="clockify-github-profile-awesome-beautiful" width="40" height="40"/>
- <img src="https://vecta.io/app/link?src=https://www.vectorlogo.zone/logos/clipboardjs/clipboardjs-icon.svg" alt="clipboard-github-profile-awesome-beautiful" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare-github-profile-awesome-beautiful" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="codepen-github-profile-awesome-beautiful" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/crateio/crateio-icon.svg" alt="crate.io-github-profile-awesome-beautiful" width="40" height="40"/>
@@ -56,7 +55,6 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab-github-profile-awesome-beautiful" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="googleanalytics-github-profile-awesome-beautiful" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql-github-profile-awesome-beautiful" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/gatsbyjs/index.html" alt="gatsby-github-profile-awesome-beautiful" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby-github-profile-awesome-beautiful" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git-github-profile-awesome-beautiful" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go-github-profile-awesome-beautiful" width="40" height="40"/>
@@ -77,7 +75,7 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet-github-profile-awesome-beautiful" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/mlab/mlab-icon.svg" alt="mlab-github-profile-awesome-beautiful" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/nano/nano-icon.svg" alt="nano-github-profile-awesome-beautiful" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg alt="netlify-github-profile-awesome-beautiful" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify-github-profile-awesome-beautiful" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" alt="nodemon-github-profile-awesome-beautiful" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku-github-profile-awesome-beautiful" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm-github-profile-awesome-beautiful" width="40" height="40"/>
