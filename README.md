@@ -15,16 +15,17 @@
 ⚡ **Fun fact**: I love a challenge. That's why I run half-marathons, I play the guitar and still haven't given up on
 flipping tortillas.
 
-📫 How to reach me **pioneer0221@outlook.com**
+📫 How to reach me **pioneersuperdev@gmail.com**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pioneer-Super-Dev&margin-w=15&margin-h=15)](https://github.com/Pioneer-Super-Dev/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="live:.cid.a9a5ff99927fb744" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" height="40" width="40" /></a>
-<a href="pioneer0221@outlook.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" height="40" width="40" /></a>
-<a href="pioneer0221@outlook.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="discord" height="40" width="40" /></a>
-<a href="pioneersuperdev@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" width="40" /></a>
+<a href="https://join.skype.com/invite/BDHGg3ZsBVPk" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" height="40" width="40" /></a>
+<a href="mailto:pioneersuperdev@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" height="40" width="40" /></a>
+<a href="Akachi#0905" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="discord" height="40" width="40" /></a>
+<a href="https://t.me/Akachi1325" target="blank"><img align="center" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/telegram/telegram-icon.svg" alt="telegram" height="40" width="40" /></a>
+<a href="mailto:pioneersuperdev@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -131,7 +132,5 @@ flipping tortillas.
 </p>
 <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pioneer-Super-Dev&layout=compact&card_width=495px&border_radius=20px&show_icons=true&theme=" alt="beautiful-github-profile-hi-with-handshake"/>
-
-<p style="margin-top: 20px;">&nbsp;<img align="center" width="50%" height:"200px" src="https://github-readme-stats.vercel.app/api?username=Pioneer-Super-Dev&show_icons=true&locale=en" alt="Pioneer-Super-Dev" /></p>
 
 ![GitHub Contribution Snake Grid Animation](https://raw.githubusercontent.com/fbuireu/fbuireu/snake-grid-animation/github-contribution-snake-grid-animation.svg)
