@@ -24,7 +24,7 @@ flipping tortillas.
 <a href="https://join.skype.com/invite/BDHGg3ZsBVPk" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" height="40" width="40" /></a>
 <a href="mailto:pioneersuperdev@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" height="40" width="40" /></a>
 <a href="Akachi#0905" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="discord" height="40" width="40" /></a>
-<a href="https://t.me/Akachi1325" target="blank"><img align="center" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/telegram/telegram-icon.svg" alt="telegram" height="40" width="40" /></a>
+<a href="https://t.me/Akachi1325" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40" width="40" /></a>
 <a href="mailto:pioneersuperdev@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" width="40" /></a>
 </p>
 
