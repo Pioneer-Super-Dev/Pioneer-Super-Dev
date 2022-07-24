@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Pioneer Elsa</h1>
 <h2 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Pioneer+Elsa+Techonology+Enables+Every+Dream+;Passionate+Blockchain+Engineer;+Fullstack+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20tech&center=true&width=500&height=50&font=georgia"></h2>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Pioneer+Elsa+Techonology+Enables+Every+Dream+;Passionate+Blockchain+|+Full+Stack+Developer;+Fullstack+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20tech&center=true&width=500&height=50&font=georgia"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yessglory17&label=Profile%20views&color=0e75b6&style=flat" alt="yessglory17" /> </p>
 
 🔭 **I’m currently working on**: Defi, Dapp, NFT marketplace(Opensea, 0xv4), DEX(Uniswap v2,v3), Stake and Farming(Fork OlympusDAO, PancakeSwap) and other Ecommerce sites (for real though, I love starting stuff from scratch and fresh ideas).
